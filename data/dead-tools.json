@@ -1,0 +1,317 @@
+[
+  {
+    "category": "Chatbot",
+    "cause": "Pivoted away — Google retired it and replaced it with Gemini everywhere.",
+    "description": "Google's voice assistant on phones, speakers and cars for about a decade.",
+    "died": "September 4, 2026",
+    "name": "Google Assistant",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "ChatGPT"
+  },
+  {
+    "category": "Productivity",
+    "cause": "Shutdown — Notion closed it after only 17 months.",
+    "description": "Notion's AI email app that sorted your inbox and drafted replies for you.",
+    "died": "September 22, 2026",
+    "name": "Notion Mail",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Gmail"
+  },
+  {
+    "category": "Productivity",
+    "cause": "Shutdown — the founder and part of the team joined Google Chrome and the service ended.",
+    "description": "Automation tool that connected your apps and ran tasks with AI help.",
+    "died": "September 14, 2026",
+    "name": "Relay.app",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Zapier"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — OpenAI discontinued it less than a year after launch.",
+    "description": "OpenAI's AI web browser with ChatGPT built into every tab.",
+    "died": "August 9, 2026",
+    "name": "ChatGPT Atlas",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Perplexity Comet"
+  },
+  {
+    "category": "Image",
+    "cause": "Shutdown — Google disabled the app and pointed users to Gemini instead.",
+    "description": "Google's phone app for making and editing AI images from text.",
+    "died": "June 5, 2026",
+    "name": "Pixel Studio",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Gemini"
+  },
+  {
+    "category": "Voice & Audio",
+    "cause": "Shutdown — built by ex-NotebookLM developers; closed about a year after raising $4.6M.",
+    "description": "Made short personalized audio briefings and podcasts based on your interests.",
+    "died": "May 2026",
+    "name": "Huxe",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "NotebookLM"
+  },
+  {
+    "category": "Website Builder",
+    "cause": "Shutdown — closed the same day as its sister product Gambo; the site went fully offline with no successor.",
+    "description": "Built animated 3D websites from a single text prompt, no code needed.",
+    "died": "May 1, 2026",
+    "name": "Dora AI",
+    "source_url": "https://techpilot.ai/tools/dora-ai-text-to-website-generator-platform/",
+    "survived_by": "Framer"
+  },
+  {
+    "category": "Video",
+    "cause": "Shutdown — it reportedly cost about $1M a day to run, users fell under 500k, and Disney's $1B deal died with it; the API followed in September 2026.",
+    "description": "OpenAI's video maker that turned text prompts into short, realistic clips.",
+    "died": "April 26, 2026",
+    "name": "Sora",
+    "source_url": "https://www.techtimes.com/articles/320557/20260715/pixverse-closes-439m-round-targets-ai-game-engines-after-sora-exits-market.htm",
+    "survived_by": "Kling AI"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Shutdown — closed with 1.3M users despite a $33M seed round.",
+    "description": "Playground where you chatted with two AI models side by side and voted for the better answer.",
+    "died": "March 31, 2026",
+    "name": "Yupp",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "LMArena"
+  },
+  {
+    "category": "Image",
+    "cause": "Shutdown — the site, dashboard and white-label pages all went offline in February 2026 with no announcement.",
+    "description": "AI design platform for logos, ads and social media graphics.",
+    "died": "February 11, 2026",
+    "name": "Kreateable",
+    "source_url": "https://tooldirectory.ai/tools/kreateable-ai-graphic-design",
+    "survived_by": "Canva"
+  },
+  {
+    "category": "Search",
+    "cause": "Shutdown — closed abruptly about a month after raising $10M; user data was deleted two weeks later.",
+    "description": "AI answer engine for developers that searched the web and explained code.",
+    "died": "January 16, 2026",
+    "name": "Phind",
+    "source_url": "https://tooldirectory.ai/ai-graveyard/cause/shutdown",
+    "survived_by": "Perplexity"
+  },
+  {
+    "category": "Voice & Audio",
+    "cause": "Acquired and killed — Meta hired the whole PlayAI team in July 2025; the API died within weeks and all user voice clones were deleted at the final shutdown.",
+    "description": "Turned text into realistic AI voices and cloned voices for videos, podcasts and apps.",
+    "died": "December 31, 2025",
+    "name": "PlayHT",
+    "source_url": "https://www.cartesia.ai/learn/top-playht-alternatives",
+    "survived_by": "ElevenLabs"
+  },
+  {
+    "category": "Productivity",
+    "cause": "Acquired and killed — Meta bought Limitless, stopped Pendant sales and shut the service about two weeks later.",
+    "description": "AI memory app that recorded your meetings and screen so you could search everything later.",
+    "died": "December 19, 2025",
+    "name": "Limitless (Rewind)",
+    "source_url": "https://www.hedy.ai/post/meta-acquires-limitless-ai-privacy/",
+    "survived_by": "Granola"
+  },
+  {
+    "category": "Other",
+    "cause": "Acquired and killed — Cursor hired the team and sunset the standalone product.",
+    "description": "Very fast AI code autocomplete tool loved by developers.",
+    "died": "November 21, 2025",
+    "name": "Supermaven",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Windsurf"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Shutdown — its maker, New Computer, closed the app and told users to export their data first.",
+    "description": "A personal AI companion app that remembered your life and chatted like a friend.",
+    "died": "October 5, 2025",
+    "name": "Dot",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Kindroid"
+  },
+  {
+    "category": "Other",
+    "cause": "Acquired and killed — Anthropic hired the team and shut the platform down weeks later.",
+    "description": "Platform that helped developers test and improve their AI chatbot prompts.",
+    "died": "September 8, 2025",
+    "name": "Humanloop",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "LangSmith"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — Mozilla closed it, along with its Firefox Review Checker, to focus on other projects.",
+    "description": "Used AI to spot fake product reviews on Amazon and other stores.",
+    "died": "July 1, 2025",
+    "name": "Fakespot",
+    "source_url": "https://www.ghacks.net/2025/05/23/mozilla-to-shut-down-pocket-in-july-2025-fakespot-is-closing-too/",
+    "survived_by": "ReviewMeta"
+  },
+  {
+    "category": "Other",
+    "cause": "Pivoted away — Sourcegraph killed the free and personal Pro plans to sell to big companies only.",
+    "description": "AI coding assistant that understood your whole codebase.",
+    "died": "July 23, 2025",
+    "name": "Cody (Sourcegraph)",
+    "source_url": "https://killedbyai.net/",
+    "survived_by": "Cursor"
+  },
+  {
+    "category": "Website Builder",
+    "cause": "Acquired and killed — Google bought it in May 2025 and folded it into its free Stitch tool.",
+    "description": "Turned a text prompt into a designed app or website interface.",
+    "died": "June 20, 2025",
+    "name": "Galileo AI",
+    "source_url": "https://technews9.com/galileo-ai-joins-google-and-becomes-stitch-a-new-chapter-in-ai-driven-ui-design/",
+    "survived_by": "Google Stitch"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Pivoted away — the consumer app closed because FDA approval was too costly and slow; the company went enterprise-only.",
+    "description": "Therapy-style chatbot that used CBT exercises to help with mood and stress; used by about 1.5M people.",
+    "died": "June 30, 2025",
+    "name": "Woebot",
+    "source_url": "https://psychology.com/ai-therapy/woebot-ai-therapist",
+    "survived_by": "Wysa"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — collapsed into insolvency after reports it had inflated its sales numbers.",
+    "description": "Platform that promised apps built by AI 'like ordering pizza'; raised over $450M, backed by Microsoft.",
+    "died": "May 20, 2025",
+    "name": "Builder.ai",
+    "source_url": "https://en.wikipedia.org/wiki/Builder.ai",
+    "survived_by": "Base44"
+  },
+  {
+    "category": "Presentations",
+    "cause": "Pivoted away — 20M+ signups but too few paying teams; the team shut it down to build Lightfield, an AI CRM.",
+    "description": "Turned a short prompt into a full slide deck with text and images.",
+    "died": "April 30, 2025",
+    "name": "Tome",
+    "source_url": "https://slidespeak.co/blog/tome-alternatives",
+    "survived_by": "Gamma"
+  },
+  {
+    "category": "Other",
+    "cause": "Acquired and killed — HP bought its assets for $116M and the pins stopped working days later.",
+    "description": "A wearable AI pin with no screen that answered questions by voice and laser projection.",
+    "died": "February 28, 2025",
+    "name": "Humane AI Pin",
+    "source_url": "https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/",
+    "survived_by": "Meta AI"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Shutdown — the developers closed it because running the free service cost too much.",
+    "description": "Free app for creating and roleplaying with AI characters; passed 1M users.",
+    "died": "December 2024",
+    "name": "Figgs AI",
+    "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "survived_by": "Janitor AI"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — maker Embodied ran out of money; the robots stopped working and owners got no refunds. The IP was later bought and open-sourced.",
+    "description": "A $799 tabletop robot friend for kids, powered by AI conversation.",
+    "died": "December 9, 2024",
+    "name": "Moxie",
+    "source_url": "https://killedbyai.net/",
+    "survived_by": "Replika"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Shutdown — Microsoft deleted the tool and every GPT users had made, about six months after launch.",
+    "description": "Let paying Copilot users build their own custom chatbots, like ChatGPT's GPTs.",
+    "died": "July 14, 2024",
+    "name": "Copilot GPT Builder",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Poe"
+  },
+  {
+    "category": "Productivity",
+    "cause": "Shutdown — the company closed the product in mid-2024.",
+    "description": "AI assistant that took meeting notes and scheduled meetings for you.",
+    "died": "June 1, 2024",
+    "name": "Xembly",
+    "source_url": "https://verdict.tools/mortality",
+    "survived_by": "Fireflies.ai"
+  },
+  {
+    "category": "Video",
+    "cause": "Acquired and killed — Adobe bought it in late 2023 and folded the tech into Firefly; the standalone product was sunset.",
+    "description": "Made marketing videos with AI avatars that spoke your script.",
+    "died": "February 26, 2024",
+    "name": "Rephrase.ai",
+    "source_url": "https://verdict.tools/mortality",
+    "survived_by": "Synthesia"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — the founders closed it after about a year, saying the market was too small; Yahoo later bought the tech.",
+    "description": "AI news app from Instagram's founders that learned what you liked to read.",
+    "died": "February 29, 2024",
+    "name": "Artifact",
+    "source_url": "https://en.wikipedia.org/wiki/Artifact_(app)",
+    "survived_by": "Feedly"
+  },
+  {
+    "category": "Voice & Audio",
+    "cause": "Shutdown — the startup wound down at the start of 2024; its open-source models still live on GitHub.",
+    "description": "Open-source text-to-speech that could clone a voice from a few seconds of audio.",
+    "died": "January 2024",
+    "name": "Coqui",
+    "source_url": "https://tooldirectory.ai/ai-graveyard",
+    "survived_by": "Piper"
+  },
+  {
+    "category": "Writing",
+    "cause": "Acquired and killed — Siteimprove bought it and rolled the tech into its own platform.",
+    "description": "AI content planner that told writers which topics and words a page needed to rank on Google.",
+    "died": "January 2024",
+    "name": "MarketMuse",
+    "source_url": "https://tooldirectory.ai/ai-graveyard",
+    "survived_by": "Frase"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — the company wound down and sold its pieces to other health-tech firms.",
+    "description": "AI automation for hospital paperwork and billing; once valued at $4B.",
+    "died": "October 31, 2023",
+    "name": "Olive",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "UiPath"
+  },
+  {
+    "category": "Other",
+    "cause": "Shutdown — OpenAI quietly removed it because its accuracy was too low.",
+    "description": "OpenAI's own free tool that tried to detect if a piece of text was written by AI.",
+    "died": "July 20, 2023",
+    "name": "AI Text Classifier",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "GPTZero"
+  },
+  {
+    "category": "Search",
+    "cause": "Acquired and killed — Snowflake bought it for $185M and closed the consumer search engine weeks later.",
+    "description": "Ad-free, private search engine built by ex-Google leaders.",
+    "died": "June 2, 2023",
+    "name": "Neeva",
+    "source_url": "https://en.wikipedia.org/wiki/Neeva",
+    "survived_by": "Brave Search"
+  },
+  {
+    "category": "Chatbot",
+    "cause": "Pivoted away — Microsoft removed the standalone app and replaced it with Copilot.",
+    "description": "Microsoft's voice assistant built into Windows.",
+    "died": "June 2023",
+    "name": "Cortana",
+    "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
+    "survived_by": "Microsoft Copilot"
+  }
+]
