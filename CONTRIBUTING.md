@@ -23,7 +23,9 @@ count. If you cannot link to proof, do not open the PR.
   "name": "Tool Name",
   "category": "Chatbot",
   "description": "One short line saying what the tool did, in easy words.",
+  "born": "2021",
   "died": "December 31, 2025",
+  "raised": "$21M",
   "cause": "Shutdown — one short line on what happened.",
   "source_url": "https://link-to-the-proof",
   "survived_by": "Name of a free or freemium alternative that is still alive"
@@ -35,6 +37,10 @@ count. If you cannot link to proof, do not open the PR.
 4. The `survived_by` tool must be alive and free or freemium **today**. If the
    alternative also died, pick another one — or note both deaths.
 5. One tool per pull request. Say in the PR where your source comes from.
+6. `born` is the year the product launched (or the company was founded).
+   `raised` is the total funding, in a short form like `"$450M"`. Both need a
+   real source too — if you cannot source one, leave it as `""`. A blank is
+   honest; a guessed number gets the PR closed.
 
 ## Not dead yet?
 
