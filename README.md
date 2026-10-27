@@ -10,6 +10,8 @@ A hand-checked list of **55 AI tools that shut down, got bought and killed, or w
 
 Made by [SaaSListy](https://saaslisty.com) — a directory of AI tools and the workflows they belong to. We check tools by hand for a living, so we notice when one dies.
 
+From the same maker: **[Awesome AI Workflows](https://github.com/Daniyal-Khatri/awesome-ai-workflows)** — the living side: 65 free AI tools grouped into 17 workflows for beginners. This graveyard is where the other ones ended up.
+
 ## The Rules
 
 1. **No source, no tombstone.** Every death on this list is backed by the company's own announcement or real reporting. The tool's name links to the proof.
