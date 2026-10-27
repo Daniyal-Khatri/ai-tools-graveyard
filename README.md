@@ -2,6 +2,8 @@
 
 > Every AI tool dies one day. This is where we remember them — and point you to what is still alive.
 
+![graves](https://img.shields.io/badge/graves-55-4c566a) ![buried](https://img.shields.io/badge/buried-%244.24B-9e2b25) ![license](https://img.shields.io/badge/license-MIT-blue)
+
 A hand-checked list of **55 AI tools that shut down, got bought and killed, or were discontinued** — each one with the date it died, the cause of death, a source that proves it, and the free alternative that survived it.
 
 **Money buried here so far: $4.24 billion** — the total raised by the 36 funded startups on this list. The rest were internal big-company products or self-funded, so no public number exists.
