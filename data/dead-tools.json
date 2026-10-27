@@ -6,7 +6,9 @@
     "died": "September 4, 2026",
     "name": "Google Assistant",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "ChatGPT"
+    "survived_by": "ChatGPT",
+    "born": "2016",
+    "raised": ""
   },
   {
     "category": "Productivity",
@@ -15,7 +17,9 @@
     "died": "September 22, 2026",
     "name": "Notion Mail",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Gmail"
+    "survived_by": "Gmail",
+    "born": "2025",
+    "raised": ""
   },
   {
     "category": "Productivity",
@@ -24,7 +28,9 @@
     "died": "September 14, 2026",
     "name": "Relay.app",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Zapier"
+    "survived_by": "Zapier",
+    "born": "2021",
+    "raised": "$8.1M"
   },
   {
     "category": "Other",
@@ -33,7 +39,9 @@
     "died": "August 9, 2026",
     "name": "ChatGPT Atlas",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Perplexity Comet"
+    "survived_by": "Perplexity Comet",
+    "born": "2025",
+    "raised": ""
   },
   {
     "category": "Image",
@@ -42,7 +50,9 @@
     "died": "June 5, 2026",
     "name": "Pixel Studio",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Gemini"
+    "survived_by": "Gemini",
+    "born": "2024",
+    "raised": ""
   },
   {
     "category": "Voice & Audio",
@@ -51,7 +61,9 @@
     "died": "May 2026",
     "name": "Huxe",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "NotebookLM"
+    "survived_by": "NotebookLM",
+    "born": "2025",
+    "raised": "$4.6M"
   },
   {
     "category": "Website Builder",
@@ -60,7 +72,9 @@
     "died": "May 1, 2026",
     "name": "Dora AI",
     "source_url": "https://techpilot.ai/tools/dora-ai-text-to-website-generator-platform/",
-    "survived_by": "Framer"
+    "survived_by": "Framer",
+    "born": "2023",
+    "raised": ""
   },
   {
     "category": "Video",
@@ -69,7 +83,9 @@
     "died": "April 26, 2026",
     "name": "Sora",
     "source_url": "https://www.techtimes.com/articles/320557/20260715/pixverse-closes-439m-round-targets-ai-game-engines-after-sora-exits-market.htm",
-    "survived_by": "Kling AI"
+    "survived_by": "Kling AI",
+    "born": "2024",
+    "raised": ""
   },
   {
     "category": "Chatbot",
@@ -78,7 +94,9 @@
     "died": "March 31, 2026",
     "name": "Yupp",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "LMArena"
+    "survived_by": "LMArena",
+    "born": "2025",
+    "raised": "$33M"
   },
   {
     "category": "Image",
@@ -87,7 +105,9 @@
     "died": "February 11, 2026",
     "name": "Kreateable",
     "source_url": "https://tooldirectory.ai/tools/kreateable-ai-graphic-design",
-    "survived_by": "Canva"
+    "survived_by": "Canva",
+    "born": "2020",
+    "raised": ""
   },
   {
     "category": "Search",
@@ -96,7 +116,9 @@
     "died": "January 16, 2026",
     "name": "Phind",
     "source_url": "https://tooldirectory.ai/ai-graveyard/cause/shutdown",
-    "survived_by": "Perplexity"
+    "survived_by": "Perplexity",
+    "born": "2022",
+    "raised": "$10.9M"
   },
   {
     "category": "Voice & Audio",
@@ -105,7 +127,9 @@
     "died": "December 31, 2025",
     "name": "PlayHT",
     "source_url": "https://www.cartesia.ai/learn/top-playht-alternatives",
-    "survived_by": "ElevenLabs"
+    "survived_by": "ElevenLabs",
+    "born": "2016",
+    "raised": "$21.75M"
   },
   {
     "category": "Productivity",
@@ -114,7 +138,9 @@
     "died": "December 19, 2025",
     "name": "Limitless (Rewind)",
     "source_url": "https://www.hedy.ai/post/meta-acquires-limitless-ai-privacy/",
-    "survived_by": "Granola"
+    "survived_by": "Granola",
+    "born": "2020",
+    "raised": "$33M"
   },
   {
     "category": "Other",
@@ -123,7 +149,9 @@
     "died": "November 21, 2025",
     "name": "Supermaven",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Windsurf"
+    "survived_by": "Windsurf",
+    "born": "2024",
+    "raised": "$12M"
   },
   {
     "category": "Chatbot",
@@ -132,7 +160,9 @@
     "died": "October 5, 2025",
     "name": "Dot",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Kindroid"
+    "survived_by": "Kindroid",
+    "born": "2024",
+    "raised": "$3.7M"
   },
   {
     "category": "Other",
@@ -141,7 +171,9 @@
     "died": "September 8, 2025",
     "name": "Humanloop",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "LangSmith"
+    "survived_by": "LangSmith",
+    "born": "2020",
+    "raised": "$7.91M"
   },
   {
     "category": "Other",
@@ -150,7 +182,9 @@
     "died": "July 1, 2025",
     "name": "Fakespot",
     "source_url": "https://www.ghacks.net/2025/05/23/mozilla-to-shut-down-pocket-in-july-2025-fakespot-is-closing-too/",
-    "survived_by": "ReviewMeta"
+    "survived_by": "ReviewMeta",
+    "born": "2016",
+    "raised": "$10.3M"
   },
   {
     "category": "Other",
@@ -159,7 +193,9 @@
     "died": "July 23, 2025",
     "name": "Cody (Sourcegraph)",
     "source_url": "https://killedbyai.net/",
-    "survived_by": "Cursor"
+    "survived_by": "Cursor",
+    "born": "2023",
+    "raised": "$223M"
   },
   {
     "category": "Website Builder",
@@ -168,7 +204,9 @@
     "died": "June 20, 2025",
     "name": "Galileo AI",
     "source_url": "https://technews9.com/galileo-ai-joins-google-and-becomes-stitch-a-new-chapter-in-ai-driven-ui-design/",
-    "survived_by": "Google Stitch"
+    "survived_by": "Google Stitch",
+    "born": "2022",
+    "raised": "$4.4M"
   },
   {
     "category": "Chatbot",
@@ -177,7 +215,9 @@
     "died": "June 30, 2025",
     "name": "Woebot",
     "source_url": "https://psychology.com/ai-therapy/woebot-ai-therapist",
-    "survived_by": "Wysa"
+    "survived_by": "Wysa",
+    "born": "2017",
+    "raised": "$123.5M"
   },
   {
     "category": "Other",
@@ -186,7 +226,9 @@
     "died": "May 20, 2025",
     "name": "Builder.ai",
     "source_url": "https://en.wikipedia.org/wiki/Builder.ai",
-    "survived_by": "Base44"
+    "survived_by": "Base44",
+    "born": "2016",
+    "raised": "$450M"
   },
   {
     "category": "Presentations",
@@ -195,7 +237,9 @@
     "died": "April 30, 2025",
     "name": "Tome",
     "source_url": "https://slidespeak.co/blog/tome-alternatives",
-    "survived_by": "Gamma"
+    "survived_by": "Gamma",
+    "born": "2020",
+    "raised": "$81M"
   },
   {
     "category": "Other",
@@ -204,7 +248,9 @@
     "died": "February 28, 2025",
     "name": "Humane AI Pin",
     "source_url": "https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/",
-    "survived_by": "Meta AI"
+    "survived_by": "Meta AI",
+    "born": "2023",
+    "raised": "$230M"
   },
   {
     "category": "Chatbot",
@@ -213,7 +259,9 @@
     "died": "December 2024",
     "name": "Figgs AI",
     "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "survived_by": "Janitor AI"
+    "survived_by": "Janitor AI",
+    "born": "2023",
+    "raised": ""
   },
   {
     "category": "Other",
@@ -222,7 +270,9 @@
     "died": "December 9, 2024",
     "name": "Moxie",
     "source_url": "https://killedbyai.net/",
-    "survived_by": "Replika"
+    "survived_by": "Replika",
+    "born": "2020",
+    "raised": "$86.3M"
   },
   {
     "category": "Chatbot",
@@ -231,7 +281,9 @@
     "died": "July 14, 2024",
     "name": "Copilot GPT Builder",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Poe"
+    "survived_by": "Poe",
+    "born": "2024",
+    "raised": ""
   },
   {
     "category": "Productivity",
@@ -240,7 +292,9 @@
     "died": "June 1, 2024",
     "name": "Xembly",
     "source_url": "https://verdict.tools/mortality",
-    "survived_by": "Fireflies.ai"
+    "survived_by": "Fireflies.ai",
+    "born": "2020",
+    "raised": "$20M"
   },
   {
     "category": "Video",
@@ -249,7 +303,9 @@
     "died": "February 26, 2024",
     "name": "Rephrase.ai",
     "source_url": "https://verdict.tools/mortality",
-    "survived_by": "Synthesia"
+    "survived_by": "Synthesia",
+    "born": "2019",
+    "raised": "$13.9M"
   },
   {
     "category": "Other",
@@ -258,7 +314,9 @@
     "died": "February 29, 2024",
     "name": "Artifact",
     "source_url": "https://en.wikipedia.org/wiki/Artifact_(app)",
-    "survived_by": "Feedly"
+    "survived_by": "Feedly",
+    "born": "2023",
+    "raised": ""
   },
   {
     "category": "Voice & Audio",
@@ -267,7 +325,9 @@
     "died": "January 2024",
     "name": "Coqui",
     "source_url": "https://tooldirectory.ai/ai-graveyard",
-    "survived_by": "Piper"
+    "survived_by": "Piper",
+    "born": "2021",
+    "raised": "$5.35M"
   },
   {
     "category": "Writing",
@@ -276,7 +336,9 @@
     "died": "January 2024",
     "name": "MarketMuse",
     "source_url": "https://tooldirectory.ai/ai-graveyard",
-    "survived_by": "Frase"
+    "survived_by": "Frase",
+    "born": "2013",
+    "raised": "$9.2M"
   },
   {
     "category": "Other",
@@ -285,7 +347,9 @@
     "died": "October 31, 2023",
     "name": "Olive",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "UiPath"
+    "survived_by": "UiPath",
+    "born": "2012",
+    "raised": "$902M"
   },
   {
     "category": "Other",
@@ -294,7 +358,9 @@
     "died": "July 20, 2023",
     "name": "AI Text Classifier",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "GPTZero"
+    "survived_by": "GPTZero",
+    "born": "2023",
+    "raised": ""
   },
   {
     "category": "Search",
@@ -303,7 +369,9 @@
     "died": "June 2, 2023",
     "name": "Neeva",
     "source_url": "https://en.wikipedia.org/wiki/Neeva",
-    "survived_by": "Brave Search"
+    "survived_by": "Brave Search",
+    "born": "2021",
+    "raised": "$77.5M"
   },
   {
     "category": "Chatbot",
@@ -312,6 +380,8 @@
     "died": "June 2023",
     "name": "Cortana",
     "source_url": "https://gravity.fast/data/ai-tool-shutdown-tracker/",
-    "survived_by": "Microsoft Copilot"
+    "survived_by": "Microsoft Copilot",
+    "born": "2014",
+    "raised": ""
   }
 ]
