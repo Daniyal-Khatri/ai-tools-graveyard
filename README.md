@@ -22,6 +22,16 @@ Made by [SaaSListy](https://saaslisty.com) — a directory of AI tools and the w
 - **[Moxie](https://killedbyai.net/)** (died December 9, 2024) — A $799 companion robot for kids. The company died, the robots stopped talking, and there were no refunds.
 - **[PlayHT](https://www.cartesia.ai/learn/top-playht-alternatives)** (died December 31, 2025) — Meta hired the whole team and killed the product — every user's voice clones were deleted with no export.
 
+## What the Graves Tell Us
+
+Patterns from the data above — every number here is counted from the dataset, not guessed:
+
+- **The die-off is accelerating.** Deaths by year: 2023: 4 · 2024: 8 · 2025: 12 · 2026: 11. 23 of the 35 tools here died in 2025–2026 alone.
+- **AI tools die young.** The average lifespan on this list is **4.2 years**. 18 of 35 were dead within 3 years; only 3 made it past 10.
+- **How they died:** 21 shut down, 9 were bought and killed, 5 were dropped when the company pivoted.
+- **The team-hire is a death sentence.** In 4 cases here — PlayHT (Meta), Humanloop (Anthropic), Supermaven (Cursor), Relay.app (Google) — a big company hired the team and the product was shut down soon after. Not once did the product survive its team being hired away.
+- **Money doesn't save you.** The typical funded startup here raised about **$20 million** and still died in under five years. The biggest grave, Olive, raised $902 million and was sold off in pieces.
+
 ## The Graveyard
 
 Newest deaths first, grouped by what the tool did. The name of each tool links to the source that proves the death.
@@ -124,6 +134,18 @@ These tools are in real trouble or have a death date announced, but **they still
 
 When one of these actually closes, it moves into the graveyard above — with a source.
 
+## ⚠️ Warning Signs Your AI Tool Is About to Die
+
+Every sign below already happened to at least one tool in this graveyard. None of them guarantee a death — but when you see one, export your data the same week.
+
+1. **A big company hires the team.** PlayHT, Humanloop, Supermaven, Relay.app — the product shut down soon after in every case here. The users were never part of the deal.
+2. **The owner ships its own replacement.** Cortana died when Copilot arrived. Google Assistant died when Gemini took over. When the successor launches, the old tool's days are counted.
+3. **An "exciting new chapter" acquisition post.** Nine tools here were bought and later killed. The announcement always says nothing will change for users. Then, months later, the shutdown email arrives.
+4. **It's free, popular, and expensive to run.** Figgs AI passed a million users and still closed because the free service cost too much to run. Yupp closed with 1.3M users despite raising $33M. Popular is not the same as profitable.
+5. **There is no export button.** PlayHT deleted every user's voice clones with no way to download them. Microsoft deleted every GPT people built in Copilot GPT Builder. If your work can't leave, your work dies with the tool.
+6. **The hardware needs their servers.** The Humane AI Pin became a brick the day the service closed. Moxie robots stopped talking to the kids who owned them. Servers off = device dead.
+7. **The updates quietly stop.** No changelog, no new features, support answers get slower — then the shutdown post. Phind closed abruptly and user data was deleted weeks later. Silence is a symptom, not a coincidence.
+
 ## The Data
 
 The whole graveyard is an open dataset, free to use in your own projects:
@@ -141,6 +163,7 @@ If we got a death wrong — the tool is actually alive — open an issue and we 
 
 ## Changelog
 
+- **v1.2.0 — October 26, 2026:** added "What the Graves Tell Us" (patterns counted from the data) and the warning-signs checklist.
 - **v1.1.0 — October 26, 2026:** every grave now shows its lifespan and the money it raised — $2.37 billion buried in total.
 - **v1.0.0 — October 26, 2026:** the graveyard opens with 35 verified graves and 4 patients in Intensive Care.
 
