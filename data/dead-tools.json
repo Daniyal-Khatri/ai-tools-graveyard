@@ -33,6 +33,28 @@
     "raised": "$8.1M"
   },
   {
+    "born": "2021",
+    "category": "Voice & Audio",
+    "cause": "Pivoted away — discontinued its consumer music app in September 2026; the core team joined Rusk Media and the company kept its tech for business licensing.",
+    "description": "AI music maker that created royalty-free background tracks for videos and podcasts.",
+    "died": "September 15, 2026",
+    "name": "Beatoven.ai",
+    "raised": "$2.4M",
+    "source_url": "https://analyticsindiamag.com/ai-news/ai-music-startup-beatovenai-shuts-down-b2c-service-as-core-team-moves-to-rusk-media",
+    "survived_by": "Suno"
+  },
+  {
+    "born": "2023",
+    "category": "Image",
+    "cause": "Pivoted away — after OpenAI invested and hired some of its researchers, Reve stopped new sign-ups and ended image generation on September 27, 2026, moving on to other AI work.",
+    "description": "AI image maker praised for sharp text inside images and strong prompt following.",
+    "died": "September 27, 2026",
+    "name": "Reve",
+    "raised": "",
+    "source_url": "https://startup.genisisiq.com/reve-f957fd/",
+    "survived_by": "Leonardo AI"
+  },
+  {
     "category": "Other",
     "cause": "Shutdown — OpenAI discontinued it less than a year after launch.",
     "description": "OpenAI's AI web browser with ChatGPT built into every tab.",
@@ -53,6 +75,17 @@
     "survived_by": "Gemini",
     "born": "2024",
     "raised": ""
+  },
+  {
+    "born": "2021",
+    "category": "Video",
+    "cause": "Acquired and killed — Livestorm bought Qlip in 2026 and folded its clipping tech into Livestorm AI Studio; the standalone product was wound down.",
+    "description": "AI clip maker that cut long videos and webinars into short, captioned clips for social media.",
+    "died": "June 2026",
+    "name": "Qlip",
+    "raised": "",
+    "source_url": "https://livestorm.co/blog/livestorm-we-acquired-qlip",
+    "survived_by": "Opus Clip"
   },
   {
     "category": "Voice & Audio",
@@ -77,6 +110,17 @@
     "raised": ""
   },
   {
+    "born": "2019",
+    "category": "Voice & Audio",
+    "cause": "Shutdown — filed for Chapter 7 liquidation on May 27, 2026, in the middle of a voice-actor lawsuit over unauthorized voice clones; paying users had been locked out since April.",
+    "description": "AI voice studio (Genny) for voiceovers, voice cloning and text-to-speech.",
+    "died": "May 27, 2026",
+    "name": "LOVO",
+    "raised": "",
+    "source_url": "https://www.cartesia.ai/learn/top-lovo-ai-alternatives",
+    "survived_by": "ElevenLabs"
+  },
+  {
     "category": "Video",
     "cause": "Shutdown — it reportedly cost about $1M a day to run, users fell under 500k, and Disney's $1B deal died with it; the API followed in September 2026.",
     "description": "OpenAI's video maker that turned text prompts into short, realistic clips.",
@@ -99,6 +143,17 @@
     "raised": "$33M"
   },
   {
+    "born": "2016",
+    "category": "Productivity",
+    "cause": "Shutdown — the AI calendar assistant announced its closure and switched off on March 27, 2026.",
+    "description": "AI calendar assistant that moved your meetings around to protect blocks of focus time.",
+    "died": "March 27, 2026",
+    "name": "Clockwise",
+    "raised": "$76M",
+    "source_url": "https://verdict.tools/mortality",
+    "survived_by": "Reclaim.ai"
+  },
+  {
     "category": "Image",
     "cause": "Shutdown — the site, dashboard and white-label pages all went offline in February 2026 with no announcement.",
     "description": "AI design platform for logos, ads and social media graphics.",
@@ -110,6 +165,17 @@
     "raised": ""
   },
   {
+    "born": "2022",
+    "category": "Website Builder",
+    "cause": "Acquired and killed — Linktree bought Bento in 2023, kept it running for over two years, then closed it on February 13, 2026 and deleted user pages.",
+    "description": "Link-in-bio pages built as a pretty grid of blocks for links, photos and videos.",
+    "died": "February 13, 2026",
+    "name": "Bento",
+    "raised": "$2.6M",
+    "source_url": "https://keepp.link/blog/bento-me-shut-down-alternatives",
+    "survived_by": "Carrd"
+  },
+  {
     "category": "Search",
     "cause": "Shutdown — closed abruptly about a month after raising $10M; user data was deleted two weeks later.",
     "description": "AI answer engine for developers that searched the web and explained code.",
@@ -119,6 +185,17 @@
     "survived_by": "Perplexity",
     "born": "2022",
     "raised": "$10.9M"
+  },
+  {
+    "born": "2020",
+    "category": "Writing",
+    "cause": "Shutdown — Unbounce discontinued the standalone AI copywriter (born as Snazzy AI) on January 28, 2026 and folded its features into the main landing-page builder.",
+    "description": "AI copywriter that wrote ads, emails and landing-page text in your brand voice.",
+    "died": "January 28, 2026",
+    "name": "Unbounce Smart Copy",
+    "raised": "",
+    "source_url": "https://verdict.tools/mortality",
+    "survived_by": "Copy.ai"
   },
   {
     "category": "Voice & Audio",
@@ -176,6 +253,17 @@
     "raised": "$7.91M"
   },
   {
+    "born": "2018",
+    "category": "Productivity",
+    "cause": "Shutdown — the team announced the closure in March 2025 and switched the app off for good on September 24, 2025.",
+    "description": "Project and task app with AI that took routine team busywork off your plate.",
+    "died": "September 24, 2025",
+    "name": "Height",
+    "raised": "$18M",
+    "source_url": "https://www.shortcut.com/blog/alternatives-to-height-app",
+    "survived_by": "Linear"
+  },
+  {
     "category": "Other",
     "cause": "Shutdown — Mozilla closed it, along with its Firefox Review Checker, to focus on other projects.",
     "description": "Used AI to spot fake product reviews on Amazon and other stores.",
@@ -196,6 +284,17 @@
     "survived_by": "Cursor",
     "born": "2023",
     "raised": "$223M"
+  },
+  {
+    "born": "2022",
+    "category": "Website Builder",
+    "cause": "Shutdown — Shopify retired its free link-in-bio tool on July 7, 2025 with no reason given, pointing sellers to third-party apps instead.",
+    "description": "Shopify's free link-in-bio page with shoppable product links and built-in checkout.",
+    "died": "July 7, 2025",
+    "name": "Linkpop",
+    "raised": "",
+    "source_url": "https://coywolf.com/news/ecommerce/shopify-is-shutting-down-linkpop/",
+    "survived_by": "Beacons"
   },
   {
     "category": "Website Builder",
@@ -220,6 +319,28 @@
     "raised": "$123.5M"
   },
   {
+    "born": "2017",
+    "category": "Voice & Audio",
+    "cause": "Acquired and killed — RWS bought Papercup's AI dubbing technology in June 2025 after much of the team had left, and the standalone company ended.",
+    "description": "AI dubbing that translated videos into other languages with synthetic voices, used by Sky News and Bloomberg.",
+    "died": "June 26, 2025",
+    "name": "Papercup",
+    "raised": "$30.5M",
+    "source_url": "https://techintelpro.com/news/ai/enterprise-ai/rws-acquires-papercups-ai-dubbing-ip-to-enhance-enterprise-localization",
+    "survived_by": "Rask AI"
+  },
+  {
+    "born": "2018",
+    "category": "Voice & Audio",
+    "cause": "Shutdown — ceased operations on June 30, 2025 after it could not raise more funding or reach profitability.",
+    "description": "AI voice actors for games and animation, hired from a marketplace of licensed real voices.",
+    "died": "June 30, 2025",
+    "name": "Replica Studios",
+    "raised": "",
+    "source_url": "https://app.dealroom.co/companies/replica_studios",
+    "survived_by": "Respeecher"
+  },
+  {
     "category": "Other",
     "cause": "Shutdown — collapsed into insolvency after reports it had inflated its sales numbers.",
     "description": "Platform that promised apps built by AI 'like ordering pizza'; raised over $450M, backed by Microsoft.",
@@ -229,6 +350,17 @@
     "survived_by": "Base44",
     "born": "2016",
     "raised": "$450M"
+  },
+  {
+    "born": "2019",
+    "category": "Video",
+    "cause": "Acquired and killed — Wix bought Hour One in May 2025 for its tech and team, and the standalone avatar-video product was discontinued.",
+    "description": "AI avatar videos — type a script and a virtual presenter reads it on camera.",
+    "died": "May 2025",
+    "name": "Hour One",
+    "raised": "",
+    "source_url": "https://pulse2.com/wix-buying-genai-media-creation-company-hour-one/",
+    "survived_by": "HeyGen"
   },
   {
     "category": "Presentations",
@@ -253,6 +385,17 @@
     "raised": "$230M"
   },
   {
+    "born": "2020",
+    "category": "Writing",
+    "cause": "Acquired and killed — Maestro Labs bought Flowrite's email-writing business in January 2025 and folded it into MailMaestro; the standalone app was retired.",
+    "description": "AI writing tool that turned a few rough words into ready-to-send emails.",
+    "died": "January 2025",
+    "name": "Flowrite",
+    "raised": "$5.1M",
+    "source_url": "https://www.barchart.com/story/news/30444264/maestro-labs-acquires-flowrite-to-build-the-largest-independent-ai-email-assistant-on-the-market",
+    "survived_by": "Grammarly"
+  },
+  {
     "category": "Chatbot",
     "cause": "Shutdown — the developers closed it because running the free service cost too much.",
     "description": "Free app for creating and roleplaying with AI characters; passed 1M users.",
@@ -275,6 +418,28 @@
     "raised": "$86.3M"
   },
   {
+    "born": "2016",
+    "category": "Other",
+    "cause": "Shutdown — shut all its clinics and CarePods in November 2024 after the self-service kiosk economics failed to work.",
+    "description": "AI health kiosks (CarePods) and app-based clinics that tried to automate the doctor's office.",
+    "died": "November 18, 2024",
+    "name": "Forward Health",
+    "raised": "$650M",
+    "source_url": "https://bizztor.com/insights/ai-startups-that-raised-millions-and-failed/",
+    "survived_by": "K Health"
+  },
+  {
+    "born": "2019",
+    "category": "Other",
+    "cause": "Acquired and killed — NVIDIA bought OctoAI in September 2024 and terminated its hosted model-running service on October 31, 2024.",
+    "description": "Cloud service that let companies run open AI models without managing their own servers.",
+    "died": "October 31, 2024",
+    "name": "OctoAI",
+    "raised": "$130M",
+    "source_url": "https://www.geekwire.com/2024/chip-giant-nvidia-acquires-octoai-a-seattle-startup-that-helps-companies-run-ai-models/",
+    "survived_by": "Replicate"
+  },
+  {
     "category": "Chatbot",
     "cause": "Shutdown — Microsoft deleted the tool and every GPT users had made, about six months after launch.",
     "description": "Let paying Copilot users build their own custom chatbots, like ChatGPT's GPTs.",
@@ -295,6 +460,17 @@
     "survived_by": "Fireflies.ai",
     "born": "2020",
     "raised": "$20M"
+  },
+  {
+    "born": "2020",
+    "category": "Productivity",
+    "cause": "Pivoted away — the company folded Airgram into its sister app Notta in March 2024 and shut the Airgram product down.",
+    "description": "AI meeting assistant that joined your calls, recorded them and wrote the notes for you.",
+    "died": "March 8, 2024",
+    "name": "Airgram",
+    "raised": "$10M",
+    "source_url": "https://verdict.tools/mortality",
+    "survived_by": "Otter.ai"
   },
   {
     "category": "Video",
@@ -341,6 +517,17 @@
     "raised": "$9.2M"
   },
   {
+    "born": "2021",
+    "category": "Website Builder",
+    "cause": "Acquired and killed — Linktree bought Koji from GoMeta in December 2023 and shut it down on January 31, 2024, weeks after the deal.",
+    "description": "Link-in-bio pages with mini apps — tip jars, games, polls and storefronts on one page.",
+    "died": "January 31, 2024",
+    "name": "Koji",
+    "raised": "$36M",
+    "source_url": "https://techcrunch.com/2023/12/14/linktree-acquires-link-in-bio-platform-koji-in-its-second-investment-of-the-year/",
+    "survived_by": "Linktree"
+  },
+  {
     "category": "Other",
     "cause": "Shutdown — the company wound down and sold its pieces to other health-tech firms.",
     "description": "AI automation for hospital paperwork and billing; once valued at $4B.",
@@ -350,6 +537,17 @@
     "survived_by": "UiPath",
     "born": "2012",
     "raised": "$902M"
+  },
+  {
+    "born": "2013",
+    "category": "Chatbot",
+    "cause": "Shutdown — filed for bankruptcy in August 2023 after its rescue deal collapsed; the US arm was liquidated and the UK business sold to eMed.",
+    "description": "Health app with an AI symptom checker and video doctor visits, once valued at $4.2B.",
+    "died": "August 2023",
+    "name": "Babylon Health",
+    "raised": "$735M",
+    "source_url": "https://startupobituary.com/p/babylon-health",
+    "survived_by": "Ada Health"
   },
   {
     "category": "Other",
@@ -383,5 +581,27 @@
     "survived_by": "Microsoft Copilot",
     "born": "2014",
     "raised": ""
+  },
+  {
+    "born": "2014",
+    "category": "Other",
+    "cause": "Shutdown — wound down in early 2023 and ended patient services on March 10, 2023; its tech assets were then sold to SonderMind.",
+    "description": "Mental-health platform that used phone data (digital biomarkers) plus app-based therapy and psychiatry.",
+    "died": "March 10, 2023",
+    "name": "Mindstrong",
+    "raised": "$160M",
+    "source_url": "https://bhbusiness.com/2023/03/22/sondermind-acquires-mindstrongs-tech-as-part-of-final-wind-down/",
+    "survived_by": "Wysa"
+  },
+  {
+    "born": "2014",
+    "category": "Other",
+    "cause": "Shutdown — founder Adam Smith closed Kite in November 2022, saying the tech was 10+ years too early and developers would not pay; the code was open-sourced.",
+    "description": "AI code completion that finished your lines of Python and JavaScript as you typed, years before Copilot.",
+    "died": "November 2022",
+    "name": "Kite",
+    "raised": "$17M",
+    "source_url": "http://rip.so/kite.html",
+    "survived_by": "GitHub Copilot"
   }
 ]
